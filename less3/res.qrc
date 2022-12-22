@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ref">
+        <file>reference.txt</file>
+    </qresource>
+</RCC>
